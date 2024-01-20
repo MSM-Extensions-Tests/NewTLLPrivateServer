@@ -817,7 +817,7 @@ str_TeleportUnavailable=Not available on this island
 str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
 str_extra=Extra
 
-diamonds - <color=#4EFFF5>
+rubies - <color=#E7260>
 coins - <color="yellow">
 food - <color=#F318D1>
 
@@ -989,25 +989,25 @@ str_stars_poison=Poison's Mark
 str_stars_shadow=Shadowed Glare
 str_stars_plasma=Plasmic Ooze
 
-str_class_Natural=Natural
-str_class_Natural-r=Natural(rare)
-str_class_Magical=Magical
-str_class_Magical-r=Magical(rare)
-str_class_Supernatural=Supernatural
-str_class_Supernatural-r=Supernatural(rare)
-str_class_Celestial=Celestial
-str_class_Celestial-s=Supercelestial
+str_class_Natural=Essential
+str_class_Natural-r=Essential(rare)
+str_class_Magical=Enchanted
+str_class_Magical-r=Enchanted(rare)
+str_class_Supernatural=Paranormal
+str_class_Supernatural-r=Paranormal(rare)
+str_class_Celestial=Deific
+str_class_Celestial-s=Superdeific
 str_class_Lost=Strayed
 str_class_Lost-r=Strayed(rare)
-str_class_Gamma=Gamma
-str_class_Seasonal=Seasonal
-str_class_Seasonal-r=Seasonal(rare)
-str_class_Ethereal=Ethereal
-str_class_Ethereal-r=Ethereal(rare)
-str_class_Dipster=Dipster
-str_class_Mythical=Mythical
-str_class_Mythical-r=Mythical(rare)
-str_class_Legendary=Legendary
+str_class_Gamma=Gamma(Water)
+str_class_Seasonal=Festive
+str_class_Seasonal-r=Festive(rare)
+str_class_Ethereal=Otherworldly
+str_class_Ethereal-r=Otherworldly(rare)
+str_class_Dipster=Hoplet
+str_class_Mythical=Arcane
+str_class_Mythical-r=Arcane(rare)
+str_class_Legendary=Infamous
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
@@ -1153,6 +1153,99 @@ str_credits_trans_pr=Portuguese Translation:
 str_credits_thanks=Special Thanks:
 str_credits_cityContest=Contest Winners:
 
+str_season_blocked=Available during\n<seasons>.
+str_season_unblocked=Available right now!
+
+str_season_blocked_costume=Can be crafted for items during\n<seasons>.
+str_season_unblocked_costume=Can be crafted for items right now!
+
+str_costume_default=No Costume
+
+str_costume_tj_1=There's always room
+str_costume_tj_2=Slimy Stache
+str_costume_tj_3=Legal alien
+
+str_costume_yap_1=Super special density
+str_costume_yap_2=Or so help me!
+str_costume_yap_darkisland=Crossover
+
+str_costume_oak_1=Doc Oak
+str_costume_oak_2=Effective Disguise
+
+str_costume_pb_rare=Like Fool's Gold Dust
+
+str_costume_quibble_dark=Dark Mode
+
+str_costume_banno_crabs=MONEY!
+
+str_costume_spunge_bob=Rusty Spunge
+
+str_costume_tweedle_blue=Chill Chick
+
+str_costume_wadee_OG=Of free flight I'm dreaming
+str_costume_wadee_squidward=Burgundy Fog
+
+str_costume_stoopa_candy=Sweet Staff
+
+str_costume_dandi_fire=Hot Chick
+
+str_costume_floot_fruit=Fruit Fly
+
+str_costume_frond_bald=Brave and Bald
+str_costume_frond_red=Cerberus Toy
+str_costume_frond_bow=Pretty and Pampered
+str_costume_frond_emo=Ring-Ring!
+
+str_costume_varrow_kromer=Big Shot
+
+str_costume_leshy_mario=Plumber of the Woods
+str_costume_leshy_gentleman=Timber Tuxedo
+
+str_costume_tort_christmas=Fir Icing
+str_costume_tort_castle=Napoleon Ambitions
+
+str_costume_stogg_christmas=Vesture Vice-Versa
+
+str_costume_cookie_christmas=Dapper Bow
+
+str_costume_gumtromp_rare_christmas=Presentable Hat
+
+str_costume_keytrus_gift=Sweet & Sour Gift
+str_costume_keytrus_deluxe=Signore Pomodoro
+
+str_costume_keytrus_rare_sucker=Sucker for Yay
+
+str_costume_marshflamo_christmas=(Yool)'s Little Helper
+
+str_costume_koodahcne_christmas=Sweeter
+
+str_costume_nogg_candy=Sucrose Helm
+
+str_costume_phang_candy=Elf Hat
+
+str_costume_thrumble_christmas=Warm Wardrobe
+
+str_costume_tj_socks=Training Attire
+
+str_costume_knife_christmas=Cozy Cover
+
+str_costume_kanya_rare_azu_broom=Ekka-Broom
+
+str_costume_kanya_christmas=Fir Freshener
+
+str_costume_fwog_bricks=Brown Bricks
+str_costume_fwog_halloween=Pretty Pattypan
+
+str_costume_fwog_rare_christmas=Jingle of the Yay
+
+str_costume_fleech_christmas=Grand Moroze
+
+str_costume_knott_1=Dzezva Fezz
+
+str_costume_knott_4=TooOot
+
+
+str_costume_potGM_christmas=Brotherhood of Stars 
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
