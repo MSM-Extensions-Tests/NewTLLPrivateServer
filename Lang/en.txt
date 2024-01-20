@@ -79,11 +79,11 @@ Monsters/Monster_mammott=Mammott
 Monsters/Monster_mammott_bio=Mammott bio
 Monsters/Monster_tweedle=Tweedle
 Monsters/Monster_tweedle_bio=Psst? Did you hear that? The featherbrained Tweedle probably did! This gossip gathering monster is known for its abysmal secret-keeping ability- but all the fellow monsters keep it around, for its signature calming coo.
-Monsters/Monster_toejammer=Toe Jammer
+Monsters/Monster_toejammer=Floodbudd
 Monsters/Monster_toejammer_bio=Adult Toe Jammers have a great bubbly personality and are very good swimmers when they live in the water. Also known to get invited to many parties and picnics with their fellow friend Floot-Fly, they know how to have a good time!!!
-Monsters/Monster_noggin=Noggin
+Monsters/Monster_noggin=Burrythym
 Monsters/Monster_noggin_bio=Seemingly carved from the earth itself, Noggins share a certain pride in being one of the eldest natural monster lineages. For as long as there’s been soil to overturn, Noggins have been tumbling about the landscapes with an ever-iconic Thump! However, with a recent influx of monsters discovered to also be created via statues, some have questioned if the rocky exterior of the Noggin is indicative of some divine creation… though that’s too philosophical of a question for a Noggin to contemplate itself. After all, as is their namesake, a Noggin’s most noteworthy trait beyond their craggy carapace is an incredibly thick skull.
-Monsters/Monster_kayna=Kayna
+Monsters/Monster_kayna=Wicka
 Monsters/Monster_kayna_bio=Kayna Bio
 Monsters/Monster_fluoress=Fluoress
 Monsters/Monster_fluoress_bio=A fluoress may seem dim and dull, but that's just a facade. When in song with fellow monsters, Fluoress happily prods its dress of Fluorophyll, lighting up the darkness. While the reason for this strange reaction, as well as the origins of Fluorophyll, are quite a mystery, Fluoress gently reminds that one need not understand to appreciate. 
@@ -109,7 +109,7 @@ Monsters/Monster_quibble=Quibble
 Monsters/Monster_quibble_bio=The Quibble may seem like a graceful monster on the outside, but that's just a facade. The two heads constantly bicker, usually having polar opinions about the latest trends, or some other trivial issue. One time, the left Quibble wanted to order fries, but the right Quibble was eager to get a milkshake... chaos ensued. But in the end, they always make up with each other, like true siblings. Oh yeah, they ended up ordering fries dunked in a milkshake. A... unique consensus
 Monsters/Monster_boskus=Boskus
 Monsters/Monster_boskus_bio=Boskus bio
-Monsters/Monster_phangler=Phangler
+Monsters/Monster_phangler=Tannout
 Monsters/Monster_phangler_bio=On water and on land, a Phangler’s sure to lend a hand! Or.. a fin? A tail? No matter, this studio-set swimmer’s a welcome addition to any party, ready to wow the stage. During off hours, Phanglers are known to listen to podcasts and make quinoa smoothies- bleargh…
 Monsters/Monster_denchuhs=Denchuhs
 Monsters/Monster_denchuhs_bio=Mah dentures
@@ -246,7 +246,7 @@ Monsters/Monster_spurrit_desert=<ref>Monsters/Monster_spurrit
 Monsters/Monster_spurrit_desert_bio=Huzzah? Huz-AAAAGH! This intreped explorer, fascinated by these ancient ruins, seems to have found some trouble with local avian life. While the Vullturs are harmless, Spurrit still freezes up at the sound of their shriek, not even letting out a characteristic yelp.
 
 
-Monsters/Monster_toejammer_rare=Rare Toe Jammer
+Monsters/Monster_toejammer_rare=Rare Floodbudd
 Monsters/Monster_toejammer_rare_bio=While the common Toe Jammer is a well known partygoer, this rare variant is far more accustomed to stay at home experiences, especially of the snacking kind. With some handy snackholding pegs included, there's no adventure the Rare Toe Jammer can't handle- from the comfort of a couch that is.
 
 
@@ -550,7 +550,7 @@ Monsters/Monster_toejammer_undof_bio=While Toe Jammers may appear fragile, these
 Monsters/Monster_kayna_undof=<ref>Monsters/Monster_kayna
 Monsters/Monster_kayna_undof_bio=The ancient Kayna was long thought lost to an enigmatic event in monster antiquity. A solitary specimen encased in amber was rescued on Tribal Island. It's true, but only recently did a new generation of these beings begin to appear, beckoned by the mysterious call of Relics resonating deep within the world's volcanic core. Now this feisty Fire Elemental is ready to play its part in restoring the glory of its powerful Element in the Monster World.
 
-Monsters/Monster_kayna_rare_undof=Rare Kayna
+Monsters/Monster_kayna_rare_undof=Rare Wicka
 Monsters/Monster_kayna_rare_undof_bio=Bearers of the oldest Element of all, Rare Kaynas are an ancient breed from which all their Common cousins have sprung. Their intricate, tattoo-like carvings are bestowed upon them with great honor to represent their impressive age and crowing wisdom, eon after eon; you can imagine that the oldest Rare Kaynas are quite a sight! Yet no matter how old the original Fire Rare gets, the burning glow of the Fire Element never dims.
 
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
@@ -559,7 +559,7 @@ Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in
 Monsters/Monster_noggin_rare_undof=Rare Noggin
 Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
 
-Monsters/Monster_fwog_undof=Fwog
+Monsters/Monster_fwog_undof=Stoad
 Monsters/Monster_fwog_undof_bio=Emerging from its muddy birthplace, the Fwog sings passionately in the hope of attracting a companion. Its hypnotic call fills the air, stirring the most primal feelings of excitement in all Monsters.
 
 Monsters/Monster_thrumble_undof=Thrumble
@@ -568,7 +568,7 @@ Monsters/Monster_thrumble_undof_bio=Wide-mouthed and keen snackers, Thrumbles ar
 Monsters/Monster_phangler_undof=<ref>Monsters/Monster_phangler
 Monsters/Monster_phangler_undof_bio=Phanglers are destined for a life in the limelight! These Natural-born crooners live to perform, and their dulcet tones are frequently employees at all manner of shindigs. Don't get caught without live entertainment at your Anniversary Month party: book Phangler today!
 
-Monsters/Monster_stogg_undof=Stogg
+Monsters/Monster_stogg_undof=Salasine
 Monsters/Monster_stogg_undof_bio=As avid rock collectors, Stoggs relish digging into the earth with their powerful forelegs to find shiny new minerals. Unfortunately, this absentminded monster also enjoys burying their treasure, often forgetting the location soon after.
 
 Monsters/Monster_gumtromp=Gumtromp
@@ -600,7 +600,7 @@ Monsters/Monster_claramel_bio=The ever-shimmering Claramel is known for its cara
 Monsters/Monster_sprinklate=Sprinklate
 Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost everyone has heard of Sprinklate at some point or another. They love to lead various activities on the island, are enthusiastic members of the island's guard, and keep a watchful eye on all. Though Sprinklate loves all of their friends equally, they have a special spot in their heart for a fellow cake, who visits once a year. 
 
-Monsters/Monster_jamboree_undof=Jam Boree
+Monsters/Monster_jamboree_undof=Eyesing
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
 
 Monsters/Monster_ghazt_undof=Ghazt
