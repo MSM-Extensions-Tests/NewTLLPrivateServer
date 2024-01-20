@@ -451,7 +451,7 @@ Monsters/Monster_psychic_bio=Macrocranium bio
 Monsters/Monster_faerie=Chordyrid
 Monsters/Monster_faerie_bio=Chordyrid bio
 
-Structures/Structure_breeding=Breeding Structure
+Structures/Structure_breeding=Splicers
 Structures/Structure_breeding_bio=Breeding Structure bio
 
 <Structures/Structure_breeding_undof3>
@@ -467,25 +467,25 @@ Structures/Structure_breeding_undof3=Sweetened Breeding Structure
 Structures/Structure_breeding_undof3_bio=Despite the faster wait times of the Enhanced Breeding Structure, breeding can still be a quite a tricky matter... Luckily, the newly Sweetened Breeding Structure can help! Upgraded through various items & resources from the Candy Island, the highly-efficient Sweetened Breeding Structure reduces breeding waiting times by 50%, more than ever before!
 
 
-Structures/Structure_castle_undof=Basic Castle
+Structures/Structure_castle_undof=Basic Hotel
 Structures/Structure_castle_undof_bio=Singing takes a lot of energy, and monsters need sleep! The Basic Castle really isn't very comfy at all; the rain gets through, it's drafty, and cramped.
 
-Structures/Structure_castle_undof2=Modest Castle
+Structures/Structure_castle_undof2=Modest Hotel
 Structures/Structure_castle_undof2_bio=It's great to have a good night's sleep! The Modest Castle is dry and warm, but small.
 
-Structures/Structure_castle_undof3=Comfortable Castle
+Structures/Structure_castle_undof3=Comfortable Hotel
 Structures/Structure_castle_undof3_bio=Ah, some elbow room! The Comfortable Castle even has indoor plumbing.	
 
-Structures/Structure_castle_undof4=Spacious Castle
+Structures/Structure_castle_undof4=Spacious Hotel
 Structures/Structure_castle_undof4_bio=The Spacious Castle has lots of room for monsters to relax and refresh.
 
-Structures/Structure_castle_undof5=Luxurious Castle
+Structures/Structure_castle_undof5=Luxurious Hotel
 Structures/Structure_castle_undof5_bio=	It just doesn't get any better than this! The Luxurious Castle has everything a monster might enjoy, from cold slime pools to dark, nasty dungeons. Who would ever want to leave?
 
-Structures/Structure_castle_undof6=Extravagant Castle
+Structures/Structure_castle_undof6=Extravagant Hotel
 Structures/Structure_castle_undof6_bio=This state of the art domicile goes way overboard when it comes to spoiling the monsters...  Personal assistants to wait on them hand and foot (at least those that have hands and feet), the spiffiest sound systems on the monster market...  They've got it made in the shade.
 
-Structures/Structure_bakery=Outer Island Bakery
+Structures/Structure_bakery=Outer Island Cooker
 Structures/Structure_bakery_bio=Bakery bio
 
 Structures/Structure_amalgamator=Amalgamator
@@ -512,13 +512,13 @@ Structures/Structure_knottmaker3_bio=Enhanced Amalgamator bio
 Structures/Structure_knottmaker4=Enhanced Amalgamator
 Structures/Structure_knottmaker4_bio=Refined Amalgamator bio
 
-Structures/Structure_stargazer=Observatory
+Structures/Structure_stargazer=Star Gazer
 Structures/Structure_stargazer_bio=Observatory bio
 
 Structures/Structure_timemachine=Time Machine
 Structures/Structure_timemachine_bio=This strange and peculiar structure can warp time! Use the slider to slow down or speed up the music!
 
-Structures/Structure_masher=Masher
+Structures/Structure_masher=Grinder
 Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be proccessed into delicious snacks for the youngsters!
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
